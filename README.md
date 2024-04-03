@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there. This is Mario Rubio González👋
+### Currently I am a student of Artificial Intelligence MSc in Universidad Politécnica de Madrid.
 
 <!--
 **marioruub/marioruub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
