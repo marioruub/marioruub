@@ -3,7 +3,7 @@
 I'm currently a student of Artificial Intelligence MSc in Universidad Politécnica de Madrid.
 I'm also working on my master's thesis, hired as a research staff at the University Politécnica de Madrid.
 
-## 📫 How to reach me
+## How to reach me 📫
 - LinkedIn: [Mario Rubio González](https://www.linkedin.com/in/mario-rubio-gonzález-0719b8252)
 - Email: mariorubiog01@gmail.com
 <!--
